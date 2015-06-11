@@ -17,6 +17,12 @@
     "target_path": "packages/apps/FMRadio",
     "remote": "cm",
     "revision": "cm-12.1"
+  },
+  {
+    "repository": "proprietary_vendor_google",
+    "target_path": "vendor/google",
+    "remote": "tm",
+    "revision": "cm-12.1"
   }
  
 ]
